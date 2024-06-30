@@ -1,10 +1,6 @@
 
 # Hi there, I'm Yaniv Gabay 
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
 
 ## Blog Posts
 
