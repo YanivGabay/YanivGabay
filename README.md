@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**YanivGabay/YanivGabay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Yaniv Gabay 
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula)
+
+## Blog Posts
+
+- [Medium - Matrix Techniques:Utilizing Linked List Arrays](https://medium.com/@yaniv242/optimizing-matrix-operations-in-c-arrays-of-linked-lists-a2f5aebd394f)
+  
+## Get in Touch
+
+- [LinkedIn](www.linkedin.com/in/yaniv-gabayy)
+  
+---
+
