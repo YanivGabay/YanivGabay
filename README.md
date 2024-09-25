@@ -1,19 +1,23 @@
+# Hi there, I'm Yaniv Gabay 👋
 
-# Hi there, I'm Yaniv Gabay 
+From **Modiin, Israel** 🌍.  
+I love cooking pizzas 🍕 in my **Ooni oven** during my spare time!  
 
-From Modiin Israel, love cooking pizzas in my Ooni oven on my spare time
-![image](https://github.com/user-attachments/assets/f703b521-1bea-42cb-8d71-0d68b6a28ae8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f703b521-1bea-42cb-8d71-0d68b6a28ae8" alt="My Ooni Pizza Oven" width="300" />
+</p>
 
-Welcome to check out my repos
-
-## Blog Posts
-
-- [Medium - Matrix Techniques:Utilizing Linked List Arrays](https://medium.com/@yaniv242/optimizing-matrix-operations-in-c-arrays-of-linked-lists-a2f5aebd394f)
-  
-## Get in Touch
-
-- [LinkedIn](www.linkedin.com/in/yaniv-gabayy)
-- [Personal Email](yaniv242@gmail.com)
-  
 ---
 
+
+
+## ✍️ Blog Posts
+
+- [Medium - Optimizing Matrix Operations in C: Arrays of Linked Lists](https://medium.com/@yaniv242/optimizing-matrix-operations-in-c-arrays-of-linked-lists-a2f5aebd394f)
+
+---
+
+## 📬 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/yaniv-gabayy)  
+- [Email me](mailto:yaniv242@gmail.com)
