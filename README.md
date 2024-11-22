@@ -19,52 +19,6 @@
  </div>
 
 
-
-
-
-
- 
-<span id="hebrew-version"></span>
-
- ברוכים הבאים! אני חובב פיצות,ספורט (צפייה בו) ופיתוח תוכנה.
- כרגע מתרגל במכללת הדסה בקורסי התכנות של שנים א' וב'.
- לשעבר עצמאי (www.helboz.co.il - חנות לתוספי תזונה) וטוני וספה רעות (R.I.P)
-
-<div dir="rtl">
-<h2>🔍 רפו השיעורים שלי</h2>
-  
-דוגמאות וקבצי קוד מהשיעורים שיצרתי במהלך ההוראה בקורסים במכללת הדסה
-
-#### 📂 מאגר שיעורים ראשי: כל ההרצאות והדוגמאות 
-
-- [לחצו כאן לכל השיעורים](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay)
-
-#### 🧑‍💻  מבוא למדעי המחשב
-
-- [מבוא למדעי המחשב](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/Intro2Cs)
-  
-#### ⚙️ תכנות מודולרי
-
-- [תכנות מודולרי](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/ModularProgramming)
-  
-#### 🖥️ מערכות הפעלה (שפת C)
-
-- [מערכות הפעלה](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/O.S%20-%20C%20languange%20-%202nd%20Year%20Course)
-
-
-יותר ממוזמנים לתרום\להציע\לתרום.
-יתכנו טעויות, שמות לא טובים, לטובת מהירות כתיבת השיעור, השאיפה שלי לנסות לתקן ולשפר את כולם.
-
-</div>
-
-
----
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <span id="english-version"></span>
 
 Welcome to my Profile! 
@@ -108,3 +62,49 @@ Coding examples can have mistakes,small syntax or bad naming, i hope and want to
 
 - [LinkedIn](https://www.linkedin.com/in/yaniv-gabayy)  
 - [Email me](mailto:yaniv242@gmail.com)
+
+---
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+ 
+<span id="hebrew-version"></span>
+
+ ברוכים הבאים! אני חובב פיצות,ספורט (צפייה בו) ופיתוח תוכנה.
+ כרגע מתרגל במכללת הדסה בקורסי התכנות של שנים א' וב'.
+ לשעבר עצמאי (www.helboz.co.il - חנות לתוספי תזונה) וטוני וספה רעות (R.I.P)
+
+<div dir="rtl">
+<h2>🔍 רפו השיעורים שלי</h2>
+  
+דוגמאות וקבצי קוד מהשיעורים שיצרתי במהלך ההוראה בקורסים במכללת הדסה
+
+#### 📂 מאגר שיעורים ראשי: כל ההרצאות והדוגמאות 
+
+- [לחצו כאן לכל השיעורים](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay)
+
+#### 🧑‍💻  מבוא למדעי המחשב
+
+- [מבוא למדעי המחשב](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/Intro2Cs)
+  
+#### ⚙️ תכנות מודולרי
+
+- [תכנות מודולרי](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/ModularProgramming)
+  
+#### 🖥️ מערכות הפעלה (שפת C)
+
+- [מערכות הפעלה](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/O.S%20-%20C%20languange%20-%202nd%20Year%20Course)
+
+
+יותר ממוזמנים לתרום\להציע\לתרום.
+יתכנו טעויות, שמות לא טובים, לטובת מהירות כתיבת השיעור, השאיפה שלי לנסות לתקן ולשפר את כולם.
+
+</div>
+
+
+
+
