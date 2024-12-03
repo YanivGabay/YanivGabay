@@ -46,7 +46,7 @@ These repositories feature lessons, projects, and examples I’ve created while 
   
 #### 🖥️ Operating Systems (C Language)
 
-- [(New) O.S - C languagnge](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/O.S%20-%20C%20languange%20-%202nd%20Year%20Course)
+- [(New) O.S - C languagnge](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/OperatingSystems-C-SecondYear)
 
 More than welcome to suggest anything and contribute.
 Coding examples can have mistakes,small syntax or bad naming, i hope and want to perfect them all.
@@ -97,8 +97,7 @@ Coding examples can have mistakes,small syntax or bad naming, i hope and want to
   
 #### 🖥️ מערכות הפעלה (שפת C)
 
-- [מערכות הפעלה](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/O.S%20-%20C%20languange%20-%202nd%20Year%20Course)
-
+- [מערכות הפעלה](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/OperatingSystems-C-SecondYear)
 
 יותר ממוזמנים לתרום\להציע\לתרום.
 יתכנו טעויות, שמות לא טובים, לטובת מהירות כתיבת השיעור, השאיפה שלי לנסות לתקן ולשפר את כולם.
