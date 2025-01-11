@@ -22,10 +22,9 @@
 <span id="english-version"></span>
 
 Welcome to my Profile! 
-I love making pizzas, watching sports, and developing software.
-Currently im teaching in Hadassah Academic College in Jerusalem, in the coding courses of the 1th and 2th year.
+
+Currently im teaching in Hadassah Academic College in Jerusalem, in various coding courses that involves C and C++.
 Previosly part owner in [Helboz - Sport supplement store Modiin](www.helboz.co.il)
-And Tony Vespa - Macabim Reut (R.I.P)
 
  
 
