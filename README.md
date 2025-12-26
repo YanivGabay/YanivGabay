@@ -57,25 +57,25 @@ By day, I build software at Taboola. By evening, I teach C and C++ courses to fi
 
 ### 🌐 Live Web Apps
 
-| Project | Description | Link |
-|---------|-------------|------|
-| **LeetCode Question Retriever** | Random questions for WhatsApp study groups | [🔗 Live](https://leetcode-question-retriever.web.app) |
-| **LeetCode Web Guide** | Platform navigation guide | [🔗 Live](https://yanivgabay.github.io/leetcode-web-guide/) |
-| **Dough Calculator** | Pizza dough recipe calculator | [🔗 Live](https://yanivgabay.github.io/my-dough-calculator/) |
+| Project | Description |
+|---------|-------------|
+| [**LeetCode Question Retriever**](https://leetcode-question-retriever.web.app) | Random questions for WhatsApp study groups |
+| [**LeetCode Web Guide**](https://yanivgabay.github.io/leetcode-web-guide/) | Platform navigation guide |
+| [**Dough Calculator**](https://yanivgabay.github.io/my-dough-calculator/) | Pizza dough recipe calculator |
 
 ### 📦 Published Libraries
 
-| Package | Description | Link |
-|---------|-------------|------|
-| **tiktok-uploader** | TikTok video uploader using Playwright - no API key required | [![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=flat&logo=pypi&logoColor=white)](https://github.com/YanivGabay/tiktok-uploader) |
+| Package | Description |
+|---------|-------------|
+| [**tiktok-uploader**](https://github.com/YanivGabay/tiktok-uploader) | TikTok video uploader using Playwright - no API key required |
 
 ### 🤖 Automation & Bots
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**manga-video-automation**](https://github.com/YanivGabay/manga-video-automation) | AI manga video generation with narration, Ken Burns effects & subtitles | Python |
-| [**ai-video-automation**](https://github.com/YanivGabay/ai-video-automation) | Automated video generation pipeline using AI | Python |
-| [**yoni-news-telegram-bot**](https://github.com/YanivGabay/yoni-news-telegram-bot) | Telegram bot for news aggregation and delivery | Python |
+| Project | Description |
+|---------|-------------|
+| [**manga-video-automation**](https://github.com/YanivGabay/manga-video-automation) | AI manga video generation with narration, Ken Burns effects & subtitles |
+| [**ai-video-automation**](https://github.com/YanivGabay/ai-video-automation) | Automated video generation pipeline using AI |
+| [**yoni-news-telegram-bot**](https://github.com/YanivGabay/yoni-news-telegram-bot) | Telegram bot for news aggregation and delivery |
 
 ---
 
