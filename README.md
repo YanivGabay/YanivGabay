@@ -10,9 +10,11 @@
 
 ---
 
-## 👨‍🏫 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Science Instructor** at **Hadassah Academic College** in Jerusalem, teaching C and C++ courses to first and second-year students. I'm passionate about making complex concepts accessible and building tools that help others learn.
+**Software Engineer** at **Taboola** (Tel Aviv) | **CS Instructor** at **Hadassah Academic College** (Jerusalem)
+
+By day, I build software at Taboola. By evening, I teach C and C++ courses to first and second-year students. I'm passionate about making complex concepts accessible and building tools that help others learn.
 
 ---
 
@@ -117,7 +119,7 @@ My main focus is creating quality learning materials for CS students. All lectur
 
 ## 🇮🇱 גרסה בעברית
 
-שלום! אני יניב גבאי, מתרגל במכללת הדסה בירושלים בקורסי C ו-C++ לשנים א' וב'.
+שלום! אני יניב גבאי, מהנדס תוכנה בטאבולה (תל אביב) ומתרגל במכללת הדסה בירושלים בקורסי C ו-C++ לשנים א' וב'.
 
 ### 📚 חומרי לימוד
 
