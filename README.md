@@ -75,12 +75,24 @@ My main focus is creating quality learning materials for CS students. All lectur
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YanivGabay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanivGabay&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YanivGabay&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YanivGabay&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YanivGabay&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YanivGabay&theme=github-dark-blue&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=YanivGabay&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=YanivGabay&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanivGabay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YanivGabay&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YanivGabay&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanivGabay&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  </picture>
 </div>
 
 ---
