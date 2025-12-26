@@ -79,10 +79,13 @@ My main focus is creating quality learning materials for CS students. All lectur
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanivGabay&theme=github" alt="Profile Details" width="100%"/>
+</div>
 
-![YanivGabay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanivGabay&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanivGabay&layout=compact&theme=transparent&hide_border=true&langs_count=6)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YanivGabay&theme=github" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YanivGabay&theme=github" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YanivGabay&theme=github" height="150"/>
 </div>
 
 ---
