@@ -30,42 +30,29 @@ By day, I build software at Taboola. By evening, I teach C and C++ courses to fi
 
 ---
 
-## 🚀 Live Projects
+## 🚀 Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://leetcode-question-retriever.web.app">
-        <img src="https://img.shields.io/badge/-LeetCode_Question_Retriever-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Retriever"/>
-      </a>
-      <br/>
-      <sub>Random LeetCode questions for WhatsApp study groups</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://yanivgabay.github.io/leetcode-web-guide/">
-        <img src="https://img.shields.io/badge/-LeetCode_Web_Guide-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Guide"/>
-      </a>
-      <br/>
-      <sub>Guide for navigating LeetCode platform</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://yanivgabay.github.io/my-dough-calculator/">
-        <img src="https://img.shields.io/badge/-Dough_Calculator-FF6B6B?style=for-the-badge&logo=cookiecutter&logoColor=white" alt="Dough Calculator"/>
-      </a>
-      <br/>
-      <sub>Pizza dough recipe calculator</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/YanivGabay/manga-video-automation">
-        <img src="https://img.shields.io/badge/-Manga_Video_Automation-9C27B0?style=for-the-badge&logo=youtube&logoColor=white" alt="Manga Automation"/>
-      </a>
-      <br/>
-      <sub>AI-powered manga video generation</sub>
-    </td>
-  </tr>
-</table>
+### 🌐 Live Web Apps
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **LeetCode Question Retriever** | Random questions for WhatsApp study groups | [🔗 Live](https://leetcode-question-retriever.web.app) |
+| **LeetCode Web Guide** | Platform navigation guide | [🔗 Live](https://yanivgabay.github.io/leetcode-web-guide/) |
+| **Dough Calculator** | Pizza dough recipe calculator | [🔗 Live](https://yanivgabay.github.io/my-dough-calculator/) |
+
+### 📦 Published Libraries
+
+| Package | Description | Link |
+|---------|-------------|------|
+| **tiktok-uploader** | TikTok video uploader using Playwright - no API key required | [![PyPI](https://img.shields.io/badge/-PyPI-3775A9?style=flat&logo=pypi&logoColor=white)](https://github.com/YanivGabay/tiktok-uploader) |
+
+### 🤖 Automation & Bots
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**manga-video-automation**](https://github.com/YanivGabay/manga-video-automation) | AI manga video generation with narration, Ken Burns effects & subtitles | Python |
+| [**ai-video-automation**](https://github.com/YanivGabay/ai-video-automation) | Automated video generation pipeline using AI | Python |
+| [**yoni-news-telegram-bot**](https://github.com/YanivGabay/yoni-news-telegram-bot) | Telegram bot for news aggregation and delivery | Python |
 
 ---
 
