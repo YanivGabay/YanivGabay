@@ -33,6 +33,7 @@ By day, I build software at Taboola. By evening, I teach C and C++ courses to fi
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -59,6 +60,7 @@ By day, I build software at Taboola. By evening, I teach C and C++ courses to fi
 
 | Project | Description |
 |---------|-------------|
+| [**Zapedit**](https://yanivgabay.github.io/zapedit-site/) | AI-powered Chrome extension for image editing - blur/remove backgrounds, enhance images |
 | [**LeetCode Question Retriever**](https://leetcode-question-retriever.web.app) | Random questions for WhatsApp study groups |
 | [**LeetCode Web Guide**](https://yanivgabay.github.io/leetcode-web-guide/) | Platform navigation guide |
 | [**Dough Calculator**](https://yanivgabay.github.io/my-dough-calculator/) | Pizza dough recipe calculator |
@@ -67,6 +69,7 @@ By day, I build software at Taboola. By evening, I teach C and C++ courses to fi
 
 | Package | Description |
 |---------|-------------|
+| [**easy-edge-tts**](https://github.com/YanivGabay/easy-edge-tts) | High-level TTS library with voice rotation and mood selection for content creators |
 | [**tiktok-uploader**](https://github.com/YanivGabay/tiktok-uploader) | TikTok video uploader using Playwright - no API key required |
 
 ### 🤖 Automation & Bots
