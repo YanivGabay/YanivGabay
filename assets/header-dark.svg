@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="477" viewBox="0 0 820 477" role="img" aria-label="man yaniv — Software Engineer at Taboola, CS Instructor at HAC">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="499" viewBox="0 0 820 499" role="img" aria-label="man yaniv — Software Engineer at Taboola, CS Instructor at HAC">
 <style>
 text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:15px;fill:#e6edf3;white-space:pre}
 .b{font-weight:700} .h{font-weight:700;fill:#f0883e} .d{fill:#8b949e}
@@ -9,7 +9,7 @@ text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Libe
 @keyframes blink{50%{opacity:0}}
 @media (prefers-reduced-motion:reduce){.l,.c{animation:none}}
 </style>
-<rect x=".5" y=".5" width="819" height="476" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x=".5" y=".5" width="819" height="498" rx="10" fill="#0d1117" stroke="#30363d"/>
 <path d="M10.5 .5h799a10 10 0 0 1 10 10v26h-819v-26a10 10 0 0 1 10-10z" fill="#161b22"/>
 <line x1=".5" y1="36" x2="819.5" y2="36" stroke="#30363d"/>
 <circle cx="22" cy="18.0" r="6" fill="#ff5f57"/>
@@ -26,7 +26,8 @@ text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Libe
 <g class="l" style="animation-delay:0.85s"><text x="28" y="288"><tspan class="h">DESCRIPTION</tspan></text></g>
 <g class="l" style="animation-delay:0.92s"><text x="28" y="310"><tspan>    By day I engineer at </tspan><tspan class="b">Taboola</tspan><tspan>; by evening I teach C and OS at </tspan><tspan class="b">HAC</tspan><tspan>.</tspan></text></g>
 <g class="l" style="animation-delay:0.99s"><text x="28" y="332"><tspan>    I love taking apps from idea to production — and perfecting pizza dough. </tspan><tspan>🍕</tspan></text></g>
-<g class="l" style="animation-delay:1.13s"><text x="28" y="376"><tspan class="h">SEE ALSO</tspan></text></g>
-<g class="l" style="animation-delay:1.20s"><text x="28" y="398"><tspan class="a">    suitedcv</tspan><tspan class="d">(1)  </tspan><tspan class="a">pashutcode</tspan><tspan class="d">(1)  </tspan><tspan class="a">dalpak</tspan><tspan class="d">(1)  </tspan><tspan class="a">poetools</tspan><tspan class="d">(1)</tspan></text></g>
-<g class="l" style="animation-delay:1.34s"><text x="28" y="442"><tspan class="p">$ </tspan><tspan class="c" style="fill:#e6edf3">█</tspan></text></g>
+<g class="l" style="animation-delay:1.06s"><text x="28" y="354"><tspan>    I live in the terminal: </tspan><tspan class="a">tmux</tspan><tspan>, </tspan><tspan class="a">herdr</tspan><tspan> and </tspan><tspan class="a">Claude Code</tspan><tspan>.</tspan></text></g>
+<g class="l" style="animation-delay:1.20s"><text x="28" y="398"><tspan class="h">SEE ALSO</tspan></text></g>
+<g class="l" style="animation-delay:1.27s"><text x="28" y="420"><tspan class="a">    suitedcv</tspan><tspan class="d">(1)  </tspan><tspan class="a">pashutcode</tspan><tspan class="d">(1)  </tspan><tspan class="a">dalpak</tspan><tspan class="d">(1)  </tspan><tspan class="a">poetools</tspan><tspan class="d">(1)</tspan></text></g>
+<g class="l" style="animation-delay:1.41s"><text x="28" y="464"><tspan class="p">$ </tspan><tspan class="c" style="fill:#e6edf3">█</tspan></text></g>
 </svg>

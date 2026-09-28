@@ -28,6 +28,7 @@ LINES = [
     [("DESCRIPTION", "h")],
     [("    By day I engineer at ", ""), ("Taboola", "b"), ("; by evening I teach C and OS at ", ""), ("HAC", "b"), (".", "")],
     [("    I love taking apps from idea to production — and perfecting pizza dough. ", ""), ("🍕", "")],
+    [("    I live in the terminal: ", ""), ("tmux", "a"), (", ", ""), ("herdr", "a"), (" and ", ""), ("Claude Code", "a"), (".", "")],
     None,
     [("SEE ALSO", "h")],
     [("    suitedcv", "a"), ("(1)  ", "d"), ("pashutcode", "a"), ("(1)  ", "d"),
