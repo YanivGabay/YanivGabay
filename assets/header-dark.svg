@@ -19,13 +19,13 @@ text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Libe
 <g class="l" style="animation-delay:0.15s"><text x="28" y="68"><tspan class="p">$ </tspan><tspan class="b">man yaniv</tspan></text></g>
 <g class="l" style="animation-delay:0.22s"><text x="28" y="90" class="b">YANIV(1)</text><text x="410.0" y="90" text-anchor="middle" class="d">Field Manual</text><text x="792" y="90" text-anchor="end" class="b">YANIV(1)</text></g>
 <g class="l" style="animation-delay:0.36s"><text x="28" y="134"><tspan class="h">NAME</tspan></text></g>
-<g class="l" style="animation-delay:0.43s"><text x="28" y="156"><tspan class="b">    yaniv</tspan><tspan> — ships AI products on the edge, teaches C to humans</tspan></text></g>
+<g class="l" style="animation-delay:0.43s"><text x="28" y="156"><tspan class="b">    Yaniv Gabay</tspan><tspan> — Software Engineer &amp; Computer Science Instructor</tspan></text></g>
 <g class="l" style="animation-delay:0.57s"><text x="28" y="200"><tspan class="h">SYNOPSIS</tspan></text></g>
-<g class="l" style="animation-delay:0.64s"><text x="28" y="222"><tspan class="b">    yaniv </tspan><tspan class="d">[</tspan><tspan class="a">--day</tspan><tspan> taboola</tspan><tspan class="d">] [</tspan><tspan class="a">--evening</tspan><tspan> hac</tspan><tspan class="d">] [</tspan><tspan class="a">--night</tspan><tspan> ship</tspan><tspan class="d">]</tspan></text></g>
-<g class="l" style="animation-delay:0.78s"><text x="28" y="266"><tspan class="h">DESCRIPTION</tspan></text></g>
-<g class="l" style="animation-delay:0.85s"><text x="28" y="288"><tspan>    Software Engineer at </tspan><tspan class="b">Taboola</tspan><tspan>, Tel Aviv.</tspan></text></g>
-<g class="l" style="animation-delay:0.92s"><text x="28" y="310"><tspan>    CS Instructor at </tspan><tspan class="b">Hadassah Academic College</tspan><tspan> — C &amp; Operating Systems.</tspan></text></g>
-<g class="l" style="animation-delay:0.99s"><text x="28" y="332"><tspan>    Builds on </tspan><tspan class="a">Cloudflare Workers · D1 · R2</tspan><tspan>, wired to </tspan><tspan class="a">Claude + MCP</tspan><tspan>.</tspan></text></g>
+<g class="l" style="animation-delay:0.64s"><text x="28" y="222"><tspan class="d">    Software Engineer    </tspan><tspan class="b">Taboola</tspan><tspan>, Tel Aviv</tspan></text></g>
+<g class="l" style="animation-delay:0.71s"><text x="28" y="244"><tspan class="d">    CS Instructor        </tspan><tspan class="b">Hadassah Academic College</tspan><tspan> — C, Operating Systems</tspan></text></g>
+<g class="l" style="animation-delay:0.85s"><text x="28" y="288"><tspan class="h">DESCRIPTION</tspan></text></g>
+<g class="l" style="animation-delay:0.92s"><text x="28" y="310"><tspan>    Builds and ships AI products on </tspan><tspan class="a">Cloudflare Workers, D1 and R2</tspan><tspan>,</tspan></text></g>
+<g class="l" style="animation-delay:0.99s"><text x="28" y="332"><tspan>    integrated with </tspan><tspan class="a">Claude</tspan><tspan> and </tspan><tspan class="a">MCP servers</tspan><tspan>.</tspan></text></g>
 <g class="l" style="animation-delay:1.13s"><text x="28" y="376"><tspan class="h">SEE ALSO</tspan></text></g>
 <g class="l" style="animation-delay:1.20s"><text x="28" y="398"><tspan class="a">    suitedcv</tspan><tspan class="d">(1)  </tspan><tspan class="a">pashutcode</tspan><tspan class="d">(1)  </tspan><tspan class="a">dalpak</tspan><tspan class="d">(1)  </tspan><tspan class="a">poetools</tspan><tspan class="d">(1)</tspan></text></g>
 <g class="l" style="animation-delay:1.34s"><text x="28" y="442"><tspan class="p">$ </tspan><tspan class="c" style="fill:#e6edf3">█</tspan></text></g>
