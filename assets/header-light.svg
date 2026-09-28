@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="477" viewBox="0 0 820 477" role="img" aria-label="man yaniv — Software Engineer at Taboola, CS Instructor at HAC">
+<style>
+text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:15px;fill:#1f2328;white-space:pre}
+.b{font-weight:700} .h{font-weight:700;fill:#bc4c00} .d{fill:#59636e}
+.a{fill:#0969da} .p{fill:#1a7f37;font-weight:700}
+.l{animation:in .35s ease-out backwards}
+@keyframes in{from{opacity:0}}
+.c{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.l,.c{animation:none}}
+</style>
+<rect x=".5" y=".5" width="819" height="476" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<path d="M10.5 .5h799a10 10 0 0 1 10 10v26h-819v-26a10 10 0 0 1 10-10z" fill="#f6f8fa"/>
+<line x1=".5" y1="36" x2="819.5" y2="36" stroke="#d0d7de"/>
+<circle cx="22" cy="18.0" r="6" fill="#ff5f57"/>
+<circle cx="42" cy="18.0" r="6" fill="#febc2e"/>
+<circle cx="62" cy="18.0" r="6" fill="#28c840"/>
+<text x="410.0" y="23.0" text-anchor="middle" class="d" style="font-size:13px">yaniv@hac: ~</text>
+<g class="l" style="animation-delay:0.15s"><text x="28" y="68"><tspan class="p">$ </tspan><tspan class="b">man yaniv</tspan></text></g>
+<g class="l" style="animation-delay:0.22s"><text x="28" y="90" class="b">YANIV(1)</text><text x="410.0" y="90" text-anchor="middle" class="d">Field Manual</text><text x="792" y="90" text-anchor="end" class="b">YANIV(1)</text></g>
+<g class="l" style="animation-delay:0.36s"><text x="28" y="134"><tspan class="h">NAME</tspan></text></g>
+<g class="l" style="animation-delay:0.43s"><text x="28" y="156"><tspan class="b">    yaniv</tspan><tspan> — ships AI products on the edge, teaches C to humans</tspan></text></g>
+<g class="l" style="animation-delay:0.57s"><text x="28" y="200"><tspan class="h">SYNOPSIS</tspan></text></g>
+<g class="l" style="animation-delay:0.64s"><text x="28" y="222"><tspan class="b">    yaniv </tspan><tspan class="d">[</tspan><tspan class="a">--day</tspan><tspan> taboola</tspan><tspan class="d">] [</tspan><tspan class="a">--evening</tspan><tspan> hac</tspan><tspan class="d">] [</tspan><tspan class="a">--night</tspan><tspan> ship</tspan><tspan class="d">]</tspan></text></g>
+<g class="l" style="animation-delay:0.78s"><text x="28" y="266"><tspan class="h">DESCRIPTION</tspan></text></g>
+<g class="l" style="animation-delay:0.85s"><text x="28" y="288"><tspan>    Software Engineer at </tspan><tspan class="b">Taboola</tspan><tspan>, Tel Aviv.</tspan></text></g>
+<g class="l" style="animation-delay:0.92s"><text x="28" y="310"><tspan>    CS Instructor at </tspan><tspan class="b">Hadassah Academic College</tspan><tspan> — C &amp; Operating Systems.</tspan></text></g>
+<g class="l" style="animation-delay:0.99s"><text x="28" y="332"><tspan>    Builds on </tspan><tspan class="a">Cloudflare Workers · D1 · R2</tspan><tspan>, wired to </tspan><tspan class="a">Claude + MCP</tspan><tspan>.</tspan></text></g>
+<g class="l" style="animation-delay:1.13s"><text x="28" y="376"><tspan class="h">SEE ALSO</tspan></text></g>
+<g class="l" style="animation-delay:1.20s"><text x="28" y="398"><tspan class="a">    suitedcv</tspan><tspan class="d">(1)  </tspan><tspan class="a">pashutcode</tspan><tspan class="d">(1)  </tspan><tspan class="a">dalpak</tspan><tspan class="d">(1)  </tspan><tspan class="a">poetools</tspan><tspan class="d">(1)</tspan></text></g>
+<g class="l" style="animation-delay:1.34s"><text x="28" y="442"><tspan class="p">$ </tspan><tspan class="c" style="fill:#1f2328">█</tspan></text></g>
+</svg>

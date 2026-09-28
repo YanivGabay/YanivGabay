@@ -1,158 +1,70 @@
-# Hey, I'm Yaniv Gabay! 👋
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaniv-gabayy/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:yaniv242@gmail.com)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@yaniv242)
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/32376d63-825c-4e18-a232-c9140a3d2861" alt="Yaniv Gabay" width="300"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" alt="man yaniv — Software Engineer at Taboola, CS Instructor at Hadassah Academic College (C & Operating Systems), builds on Cloudflare Workers, D1, R2 with Claude + MCP" width="100%">
+</picture>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/yaniv-gabayy/)
+[![Email](https://img.shields.io/badge/yaniv242@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yaniv242@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yaniv242)
+
 </div>
 
----
+## Now shipping
 
-## 👨‍💻 About Me
+Live products, built and run end to end — product, code, infra, payments.
 
-**Software Engineer** at **Taboola** (Tel Aviv) | **CS Instructor** at **Hadassah Academic College** (Jerusalem)
+| | Product | What it does | Built on |
+|---|---|---|---|
+| 📄 | **[SuitedCV](https://suitedcv.com)** | One master CV, AI-tailored for every job. Keep/skip review on each change, ATS-safe PDF export, full Hebrew + RTL. Built with [@tomerhayundev](https://github.com/tomerhayundev). | Workers · D1 · R2 · Claude |
+| 🧱 | **[Pashut Code](https://pashutcode.com)** | Hebrew-first AI website builder — describe the site in Hebrew, get it built and hosted. | Workers · KV · MCP |
+| 🛒 | **[Dalpak](https://dalpak.app)** | Embeddable AI shopping agent for e-commerce stores: answers product questions, recommends items, builds carts, captures leads. Hebrew, English & Arabic. | Workers · OpenRouter |
+| ⚔️ | **[PoE Tools](https://poetools.dev)** | Path of Exile toolkit — cluster jewel calculator, div-card flips, budget and currency tools on live market prices. Every tool is also exposed over MCP. | React · Workers · MCP |
 
-By day, I build software at Taboola. By evening, I teach C and C++ courses to first and second-year students. I'm passionate about making complex concepts accessible and building tools that help others learn.
+## Building in the open
 
----
+| Project | What it is |
+|---|---|
+| **botkit-ai** | Python framework for AI Telegram bots — OpenRouter/OpenAI, `@tool()` decorator, alerts, built-in paywall, tools exposed as an MCP server. |
+| **Sheql** <sub>(שקל)</sub> | Israeli bank transactions → local DB → MCP. Ask Claude "what's my financial state?" and get a real answer. |
+| **[question-retriever-leetcode](https://github.com/YanivGabay/question-retriever-leetcode)** | Picks LeetCode questions for the *Help Me LeetCode* WhatsApp community. [Live →](https://leetcode-question-retriever.web.app) |
+| **[mcp-naming-bias](https://github.com/YanivGabay/mcp-naming-bias)** | Research: how tool names and ordering bias an LLM's MCP tool selection. |
 
-## 🛠️ Tech Stack
+<sub>Also: [easy-edge-tts](https://github.com/YanivGabay/easy-edge-tts) · [tiktok-uploader](https://github.com/YanivGabay/tiktok-uploader) · [whatsapp-mcp](https://github.com/YanivGabay/whatsapp-mcp) · [secrets-vault](https://github.com/YanivGabay/secrets-vault) · [Zapedit](https://yanivgabay.github.io/zapedit-site/)</sub>
 
-**Languages**
+## Teaching
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+I teach **C** and **Operating Systems** at Hadassah Academic College. Every lecture, example and exercise is open source:
 
-**Frontend & Backend**
+**[📂 cs-lectures-by-yaniv-gabay](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay)** —
+[Operating Systems (C)](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/OperatingSystems-C-SecondYear) ·
+[Intro to CS](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/Intro2Cs) ·
+[Modular Programming](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/ModularProgramming) ·
+[Advanced C++](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/AdvancedCPP)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+Found a typo or a bug in an example? Issues and PRs are welcome.
 
-**Cloud & DevOps**
+## Stack
 
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+| Area | Tools |
+|---|---|
+| **Edge** | ![Cloudflare Workers](https://img.shields.io/badge/Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white) ![D1](https://img.shields.io/badge/D1-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![R2](https://img.shields.io/badge/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **AI** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![MCP](https://img.shields.io/badge/MCP_servers-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square&logo=openrouter&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C#/.NET](https://img.shields.io/badge/C%23_/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **Apps & games** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) |
+| **Payments** | ![Paddle](https://img.shields.io/badge/Paddle-FFDD35?style=flat-square&logo=paddle&logoColor=black) ![Lemon Squeezy](https://img.shields.io/badge/Lemon_Squeezy-FFC233?style=flat-square&logo=lemonsqueezy&logoColor=black) |
+| **Ops** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
-**AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
-![Telegram](https://img.shields.io/badge/-Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🌐 Live Web Apps
-
-| Project | Description |
-|---------|-------------|
-| [**Zapedit**](https://yanivgabay.github.io/zapedit-site/) | AI-powered Chrome extension for image editing - blur/remove backgrounds, enhance images |
-| [**LeetCode Question Retriever**](https://leetcode-question-retriever.web.app) | Random questions for WhatsApp study groups |
-| [**LeetCode Web Guide**](https://yanivgabay.github.io/leetcode-web-guide/) | Platform navigation guide |
-| [**Dough Calculator**](https://yanivgabay.github.io/my-dough-calculator/) | Pizza dough recipe calculator |
-
-### 📦 Published Libraries
-
-| Package | Description |
-|---------|-------------|
-| [**easy-edge-tts**](https://github.com/YanivGabay/easy-edge-tts) | High-level TTS library with voice rotation and mood selection for content creators |
-| [**tiktok-uploader**](https://github.com/YanivGabay/tiktok-uploader) | TikTok video uploader using Playwright - no API key required |
-
-### 🤖 Automation & Bots
-
-| Project | Description |
-|---------|-------------|
-| [**manga-video-automation**](https://github.com/YanivGabay/manga-video-automation) | AI manga video generation with narration, Ken Burns effects & subtitles |
-| [**ai-video-automation**](https://github.com/YanivGabay/ai-video-automation) | Automated video generation pipeline using AI |
-| [**yoni-news-telegram-bot**](https://github.com/YanivGabay/yoni-news-telegram-bot) | Telegram bot for news aggregation and delivery |
-
----
-
-## 📚 Teaching Resources
-
-My main focus is creating quality learning materials for CS students. All lecture materials, code examples, and exercises are open source.
-
-### 📂 [Main Repository: All Lectures & Examples](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay)
-
-| Course | Description | Link |
-|--------|-------------|------|
-| 🧑‍💻 **Intro to CS** | First-year fundamentals | [View Course](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/Intro2Cs) |
-| ⚙️ **Modular Programming** | C++ OOP & design | [View Course](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/ModularProgramming) |
-| 🖥️ **Operating Systems** | Systems programming in C | [View Course](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/OperatingSystems-C-SecondYear) |
-
-> 💡 Contributions and suggestions are welcome! Found a bug or typo? Open an issue or PR.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YanivGabay&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanivGabay&theme=github" alt="Profile Details" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YanivGabay&theme=github" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YanivGabay&theme=github" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YanivGabay&theme=github" height="150"/>
-</div>
-
----
-
-## ✍️ Blog Posts
+## Writing
 
 - [Optimizing Matrix Operations in C: Arrays of Linked Lists](https://medium.com/@yaniv242/optimizing-matrix-operations-in-c-arrays-of-linked-lists-a2f5aebd394f)
 
 ---
 
-## 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaniv-gabayy/)
-[![Email](https://img.shields.io/badge/-Send_Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yaniv242@gmail.com)
-
-</div>
-
----
-
 <div dir="rtl">
 
-## 🇮🇱 גרסה בעברית
+**בעברית:** אני יניב גבאי — מהנדס תוכנה בטאבולה ומרצה במכללה האקדמית הדסה ל־C ולמערכות הפעלה. בונה מוצרים בעברית כמו [פשוט קוד](https://pashutcode.com), [SuitedCV](https://suitedcv.com) ו[דלפק](https://dalpak.app). כל חומרי הקורסים [פתוחים כאן](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay) — מוזמנים לפתוח issues ולתרום.
 
-שלום! אני יניב גבאי, מהנדס תוכנה בטאבולה (תל אביב) ומתרגל במכללת הדסה בירושלים בקורסי C ו-C++ לשנים א' וב'.
-
-### 📚 חומרי לימוד
-
-| קורס | קישור |
-|------|-------|
-| 🧑‍💻 מבוא למדעי המחשב | [לחומרים](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/Intro2Cs) |
-| ⚙️ תכנות מודולרי | [לחומרים](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/ModularProgramming) |
-| 🖥️ מערכות הפעלה | [לחומרים](https://github.com/YanivGabay/cs-lectures-by-yaniv-gabay/tree/main/OperatingSystems-C-SecondYear) |
-
-מוזמנים לתרום, להציע שיפורים ולפתוח issues!
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YanivGabay&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </div>
